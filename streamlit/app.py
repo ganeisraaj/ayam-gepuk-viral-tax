@@ -6,7 +6,7 @@ import matplotlib.patches as mpatches
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("ayam_gepuk_full.csv")
+    df = pd.read_csv("streamlit/ayam_gepuk_full.csv")
     df["boneless"] = df["boneless"].map({"Yes": 1, "No": 0})
     df["viral"] = df["viral"].map({"Yes": 1, "No": 0})
     return df
