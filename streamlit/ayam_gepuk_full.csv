@@ -1,54 +1,19 @@
 brand,outlet,area,dine_in_price_rm,delivery_price_rm,google_rating,google_reviews,ig_followers,tiktok_views_est,num_outlets,boneless,sambal_options,extras_included,viral,date_collected,price_source,viral_tax_rm,price_premium_pct,hype_score
-Ayam Gepuk Pak Gembus,Wangsa Maju,Wangsa Maju,18.9,20.9,4.3,2100,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com July 2026,4.9,35.0,100.0
-Ayam Gepuk Pak Gembus,Cheras,Cheras,18.9,20.9,4.2,1450,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com July 2026,4.9,35.0,91.6
-Ayam Gepuk Pak Gembus,Subang,Subang,18.9,20.9,4.3,980,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com July 2026,4.9,35.0,85.5
-Ayam Gepuk Pak Gembus,Cyberjaya,Cyberjaya,18.9,20.9,4.2,540,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com July 2026,4.9,35.0,79.8
-Ayam Gepuk Pak Gembus,Gombak,Gombak,18.9,20.9,4.4,890,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com July 2026,4.9,35.0,84.3
-Ayam Gepuk Top Global,Wangsa Maju,Wangsa Maju,14.25,18.0,4.2,1800,45000,5000000,40,No,5,"Rice, tempeh, tofu, veg",Yes,2026-08-29,sethlui.com 2026,0.25,1.8,58.5
-Ayam Gepuk Top Global,Shah Alam,Shah Alam,14.25,18.0,4.2,580,45000,5000000,40,No,5,"Rice, tempeh, tofu, veg",Yes,2026-08-29,sethlui.com 2026,0.25,1.8,42.7
-Ayam Gepuk Top Global,Chow Kit,Chow Kit,14.25,18.0,4.1,1200,45000,5000000,40,No,5,"Rice, tempeh, tofu, veg",Yes,2026-08-29,sethlui.com 2026,0.25,1.8,50.7
-Ayam Gepuk Top Global,Cyberjaya,Cyberjaya,14.25,18.0,4.3,670,45000,5000000,40,No,5,"Rice, tempeh, tofu, veg",Yes,2026-08-29,sethlui.com 2026,0.25,1.8,43.8
-Gepuklah,Damansara Jaya,Damansara,19.9,21.9,4.6,450,62000,8500000,1,Yes,3,"Nasi lemak rice, sambal kacang, bayam, tempeh, egg",Yes,2026-08-29,says.com / ayampanas.com Aug 2026,5.9,42.1,39.3
-Ayam Gepuk Artisan,Klang,Klang,8.99,10.99,4.2,290,3000,180000,1,No,2,"Rice, sambal, cucumber, cabbage",No,2026-08-29,sethlui.com 2026,-5.01,-35.8,2.0
-Ayam Gepuk Papa Jon,Shah Alam,Shah Alam,15.8,19.75,4.2,280,18000,2200000,15,No,3,"Rice, tempeh, tofu, veg, sambal papa jon",Yes,2026-08-29,foodpanda.my 2026,1.8,12.9,15.7
-Ayam Gepuk Papa Jon,JB,Johor Bahru,15.8,19.75,4.4,680,18000,2200000,15,No,3,"Rice, tempeh, tofu, veg, sambal papa jon",Yes,2026-08-29,foodpanda.my 2026,1.8,12.9,20.9
-Ayam Gepuk Papa Jon,Kota Kinabalu,Kota Kinabalu,15.8,19.75,4.3,420,18000,2200000,15,No,3,"Rice, tempeh, tofu, veg, sambal papa jon",Yes,2026-08-29,foodpanda.my 2026,1.8,12.9,17.5
-Ayam Gepuk Tok Mat,Ampang,Ampang,14.0,16.0,4.3,780,22000,2500000,10,No,4,"Rice, tempeh, tofu, veg, gizzard",Yes,2026-08-29,loopme.my / makan.buddy 2026,0.0,0.0,22.2
-Ayam Gepuk Tok Mat,Cheras,Cheras,14.0,16.0,4.2,560,22000,2500000,10,No,4,"Rice, tempeh, tofu, veg, gizzard",Yes,2026-08-29,loopme.my / makan.buddy 2026,0.0,0.0,19.3
-Ayam Gepuk Tok Mat,Wangsa Maju,Wangsa Maju,17.0,19.0,4.3,510,22000,2500000,10,No,4,"Rice, tempeh, tofu, veg, gizzard",Yes,2026-08-29,loopme.my / makan.buddy 2026,3.0,21.4,18.7
-Ayam Gepuk Tok Mat,Maluri,Cheras,14.0,16.0,4.2,430,22000,2500000,10,No,4,"Rice, tempeh, tofu, veg, gizzard",Yes,2026-08-29,loopme.my / makan.buddy 2026,0.0,0.0,17.7
-Ayam Gepuk Nusantara,Wangsa Maju,Wangsa Maju,15.8,17.8,4.2,560,7000,500000,3,No,3,"Rice, tempeh, tofu, veg",No,2026-08-29,sethlui.com 2026,1.8,12.9,8.1
-Ayam Gepuk Nusantara,Setapak,Setapak,15.8,17.8,4.1,340,7000,500000,3,No,3,"Rice, tempeh, tofu, veg",No,2026-08-29,sethlui.com 2026,1.8,12.9,5.2
-Ayam Gepuk Nusantara,Klang,Klang,15.8,17.8,4.2,280,7000,500000,3,No,3,"Rice, tempeh, tofu, veg",No,2026-08-29,sethlui.com 2026,1.8,12.9,4.5
-Ayam Gepuk Pak Raden,Shah Alam,Shah Alam,13.9,15.9,4.4,510,12000,800000,2,No,3,"Rice, cashew sauce, veg",No,2026-08-29,estimated from market positioning,-0.1,-0.7,9.2
-Ayam Gepuk Pak Raden,Sungai Buloh,Sungai Buloh,13.9,15.9,4.3,210,12000,800000,2,No,3,"Rice, cashew sauce, veg",No,2026-08-29,estimated from market positioning,-0.1,-0.7,5.3
-Ayam Gepuk Berapi,Setapak,Setapak,12.5,14.5,4.2,310,5000,300000,2,No,4,"Rice, tempeh, veg",No,2026-08-29,estimated,-1.5,-10.7,3.5
-Ayam Gepuk Berapi,Kepong,Kepong,12.5,14.5,4.1,220,5000,300000,2,No,4,"Rice, tempeh, veg",No,2026-08-29,estimated,-1.5,-10.7,2.3
-Gesek Geprek,Wangsa Maju,Wangsa Maju,10.5,14.0,4.2,380,3000,180000,2,No,2,"Rice, sambal, ayam crispy, kobis goreng, timun, kicap",No,2026-08-29,gesekgeprek.com official website,-3.5,-25.0,3.5
-Gesek Geprek,Ampang,Ampang,10.5,14.0,4.1,240,3000,180000,2,No,2,"Rice, sambal, ayam crispy, kobis goreng, timun, kicap",No,2026-08-29,gesekgeprek.com official website,-3.5,-25.0,1.7
-My Ayam Ketuk,Sungai Besi,Sungai Besi,11.0,13.0,4.1,290,3000,180000,1,No,2,"Rice, tempeh, veg",No,2026-08-29,estimated,-3.0,-21.4,2.0
-Ayam Gepuk Jogja,Wangsa Maju,Wangsa Maju,12.0,14.0,4.3,680,6000,400000,1,No,3,"Rice, tempeh, tofu, veg, bakso option",No,2026-08-29,estimated from market tier,-2.0,-14.3,8.4
-Ayam Gepuk Express,Taman Melawati,Wangsa Maju,16.8,20.8,4.1,420,8000,600000,5,No,3,"Rice, tempeh, cucumber, cabbage",No,2026-08-29,menufyy.com / gesek geprek website,2.8,20.0,7.5
-Ayam Gepuk Express,Cyberjaya,Cyberjaya,16.8,20.8,4.2,380,8000,600000,5,No,3,"Rice, tempeh, cucumber, cabbage",No,2026-08-29,menufyy.com 2026,2.8,20.0,7.0
-Ayam Gepuk Express,Putrajaya,Putrajaya,16.8,20.8,4.0,310,8000,600000,5,No,3,"Rice, tempeh, cucumber, cabbage",No,2026-08-29,menufyy.com 2026,2.8,20.0,6.1
-Ayam Gepuk Citarasa,Sungai Besi,Sungai Besi,9.9,11.9,4.1,680,2000,150000,2,No,2,"Rice, veg, ikan keli",No,2026-08-29,loopme.my 2026,-4.1,-29.3,7.0
-Ayam Gepuk Citarasa,Maluri,Cheras,9.9,11.9,4.0,320,2000,150000,2,No,2,"Rice, veg",No,2026-08-29,loopme.my 2026,-4.1,-29.3,2.4
-Ayam Gepuk Lesung,Subang,Subang,11.9,13.9,4.3,560,5000,350000,2,No,2,"Rice, kangkung, tempeh",No,2026-08-29,estimated from market tier,-2.1,-15.0,6.8
-Ayam Gepuk Lesung,Petaling Jaya,Petaling Jaya,11.9,13.9,4.2,340,5000,350000,2,No,2,"Rice, kangkung, tempeh",No,2026-08-29,estimated from market tier,-2.1,-15.0,4.0
-Ayam Getok Mantul,Subang,Subang,9.9,11.9,4.4,720,9000,600000,3,No,3,"Rice, tempeh, tofu",No,2026-08-29,loopme.my 2026,-4.1,-29.3,11.0
-Ayam Getok Mantul,Puchong,Puchong,9.9,11.9,4.3,480,9000,600000,3,No,3,"Rice, tempeh, tofu",No,2026-08-29,loopme.my 2026,-4.1,-29.3,7.9
-Ayam Getok Mantul,Shah Alam,Shah Alam,9.9,11.9,4.3,350,9000,600000,3,No,3,"Rice, tempeh, tofu",No,2026-08-29,loopme.my 2026,-4.1,-29.3,6.2
-Ole Ayam Gepuk,Wangsa Maju,Wangsa Maju,12.5,14.5,4.4,320,8500,1200000,2,No,4,"Rice, tempeh, tofu, veg, pistachio sauce option",Yes,2026-08-29,loopme.my 2026,-1.5,-10.7,6.5
-Ole Ayam Gepuk,Subang Perdana,Subang,12.5,14.5,4.3,280,8500,1200000,2,No,4,"Rice, tempeh, tofu, veg, pistachio sauce option",Yes,2026-08-29,loopme.my 2026,-1.5,-10.7,6.0
-Ayam Gepuk Macet,Shah Alam,Shah Alam,13.0,15.0,4.2,310,4500,280000,2,No,3,"Rice, tempeh, veg",No,2026-08-29,makan.buddy Threads 2026,-1.0,-7.1,3.3
-Ayam Gepuk Macet,Subang,Subang,13.0,15.0,4.1,240,4500,280000,2,No,3,"Rice, tempeh, veg",No,2026-08-29,makan.buddy Threads 2026,-1.0,-7.1,2.4
-Ayam Gepuk Hut,Mid Valley,Bangsar,16.9,18.9,4.4,520,15000,1800000,3,No,4,"Rice, tempeh, tofu, veg, salted egg sotong option",Yes,2026-08-29,trip.com / ioicitymall.com.my 2026,2.9,20.7,12.7
-Ayam Gepuk Hut,IOI City Mall,Putrajaya,16.9,18.9,4.3,380,15000,1800000,3,No,4,"Rice, tempeh, tofu, veg, salted egg sotong option",Yes,2026-08-29,trip.com / ioicitymall.com.my 2026,2.9,20.7,10.9
-Ayam Gepuk Kg Pandan,Kampung Pandan,Cheras,10.5,12.5,4.1,410,2500,120000,1,No,3,"Rice, tempeh, veg, bumbu kacang",No,2026-08-29,estimated from budget tier,-3.5,-25.0,3.3
-Ayam Gepuk 57,Subang,Subang,13.9,15.9,4.2,270,4000,220000,2,No,3,"Rice, tempeh, tofu, veg",No,2026-08-29,estimated,-0.1,-0.7,2.5
-Ayam Gepuk 57,Shah Alam,Shah Alam,13.9,15.9,4.1,190,4000,220000,2,No,3,"Rice, tempeh, tofu, veg",No,2026-08-29,estimated,-0.1,-0.7,1.4
-King Ayam Gepuk,Kepong,Kepong,15.6,17.6,4.3,340,6000,380000,2,No,3,"Rice, sambal, cucumber, fried chicken",No,2026-08-29,sethlui.com 2026,1.6,11.4,4.3
-King Ayam Gepuk,Setapak,Setapak,15.6,17.6,4.2,260,6000,380000,2,No,3,"Rice, sambal, cucumber, fried chicken",No,2026-08-29,sethlui.com 2026,1.6,11.4,3.3
-The Ayam Gepuk Shop,Bangsar South,Bangsar,14.9,16.9,4.3,310,7500,480000,1,No,3,"Rice, tempeh, tofu, veg",No,2026-08-29,estimated premium standalone,0.9,6.4,4.2
-Ayam Gepuk 2BD,Puchong,Puchong,11.9,13.9,4.1,230,2500,130000,1,No,2,"Rice, tempeh, veg",No,2026-08-29,estimated,-2.1,-15.0,0.9
-Ayam Gepuk 2BD,Klang,Klang,11.9,13.9,4.0,170,2500,130000,1,No,2,"Rice, tempeh, veg",No,2026-08-29,estimated,-2.1,-15.0,0.2
+Gepuklah,Damansara Jaya,Damansara,19.9,21.9,4.6,450,62000,8500000,1,Yes,3,"Nasi lemak rice, sambal kacang, bayam, tempeh, egg",Yes,2026-08-29,says.com + ayampanas.com Aug 2026,4.3,27.6,38.4
+Ayam Gepuk Pak Gembus,Wangsa Maju,Wangsa Maju,16.4,19.4,4.3,2100,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com Aug 22 2026,0.8,5.1,100.0
+Ayam Gepuk Pak Gembus,Cheras,Cheras,16.4,19.4,4.2,1450,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com Aug 22 2026,0.8,5.1,91.3
+Ayam Gepuk Pak Gembus,Subang,Subang,16.4,19.4,4.3,980,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com Aug 22 2026,0.8,5.1,84.9
+Ayam Gepuk Pak Gembus,Cyberjaya,Cyberjaya,16.4,19.4,4.2,540,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com Aug 22 2026,0.8,5.1,79.0
+Ayam Gepuk Pak Gembus,Gombak,Gombak,16.4,19.4,4.4,890,85000,12000000,70,No,10,"Rice, tempeh, tofu, veg, cucumber",Yes,2026-08-29,pricelisto.com Aug 22 2026,0.8,5.1,83.7
+Ayam Gepuk Hut,Mid Valley,Bangsar,16.9,18.9,4.4,520,15000,1800000,3,No,4,"Rice, tempeh, tofu, veg, salted egg sotong option",Yes,2026-08-29,trip.com + ioicitymall.com.my 2026,1.3,8.3,11.6
+Ayam Gepuk Hut,IOI City Mall,Putrajaya,16.9,18.9,4.3,380,15000,1800000,3,No,4,"Rice, tempeh, tofu, veg, salted egg sotong option",Yes,2026-08-29,trip.com + ioicitymall.com.my 2026,1.3,8.3,9.7
+King Ayam Gepuk,Kepong,Kepong,15.6,17.6,4.3,340,6000,380000,2,No,3,"Rice, sambal, cucumber, fried chicken",No,2026-08-29,sethlui.com 2026 physical visit,0.0,0.0,3.0
+King Ayam Gepuk,Setapak,Setapak,15.6,17.6,4.2,260,6000,380000,2,No,3,"Rice, sambal, cucumber, fried chicken",No,2026-08-29,sethlui.com 2026,0.0,0.0,2.0
+Ayam Gepuk Top Global,Wangsa Maju,Wangsa Maju,14.25,18.0,4.2,1800,45000,5000000,40,No,5,"Rice, tempeh, tofu, veg",Yes,2026-08-29,sethlui.com 2026 physical visit,-1.35,-8.7,58.1
+Ayam Gepuk Top Global,Shah Alam,Shah Alam,14.25,18.0,4.2,580,45000,5000000,40,No,5,"Rice, tempeh, tofu, veg",Yes,2026-08-29,sethlui.com 2026,-1.35,-8.7,41.7
+Ayam Gepuk Top Global,Chow Kit,Chow Kit,14.25,18.0,4.1,1200,45000,5000000,40,No,5,"Rice, tempeh, tofu, veg",Yes,2026-08-29,sethlui.com 2026,-1.35,-8.7,50.0
+Ayam Gepuk Macet,Shah Alam,Shah Alam,13.0,15.0,4.2,310,4500,280000,2,No,3,"Rice, tempeh, veg",No,2026-08-29,makan.buddy Threads 2026,-2.6,-16.7,2.0
+Ayam Gepuk Macet,Subang,Subang,13.0,15.0,4.1,240,4500,280000,2,No,3,"Rice, tempeh, veg",No,2026-08-29,makan.buddy Threads 2026,-2.6,-16.7,1.0
+Ayam Gepuk Artisan,Klang,Klang,10.99,12.99,4.2,290,3000,180000,1,No,2,"Rice, ayam goreng klasik, sambal, kobis, timun",No,2026-08-29,ayamgepukartisan.my official website,-4.61,-29.6,0.7
+Gesek Geprek,Wangsa Maju,Wangsa Maju,10.5,14.0,4.2,380,3000,180000,3,No,2,"Rice, sambal, ayam crispy, kobis goreng, timun, kicap",No,2026-08-29,gesekgeprek.com official website,-5.1,-32.7,2.6
+Gesek Geprek,Ampang,Ampang,10.5,14.0,4.1,240,3000,180000,3,No,2,"Rice, sambal, ayam crispy, kobis goreng, timun, kicap",No,2026-08-29,gesekgeprek.com official website,-5.1,-32.7,0.7
